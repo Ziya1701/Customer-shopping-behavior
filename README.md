@@ -64,7 +64,11 @@ Average purchase amount
 Average review rating
 Revenue by category
 Revenue and sales by age group
-Subscription breakdown
+Subscription breakdown. 
+
+Dashboard :- 
+
+<a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/Screenshot%202025-11-29%20135036.png> Dashboard </a>
 
 ## Business Recommendations
 Increase subscription conversions
