@@ -22,15 +22,16 @@ Data Set used :-
 <a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/customer_shopping_behavior.csv > Data set </a>
 
 ## Tools Used
-Python: Pandas
-MySQL: Data storage & business queries
+Python: Pandas,
+MySQL: Data storage & business queries and
 Power BI: Dashboard development
 ## Steps Performed
 ### EDA in Python
 Loaded data with Pandas
 Checked structure (df.info())
 Statistical summary (df.describe())
-Identified missing values
+Identified missing values.
+
 Jupyter File :- <a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/Customer_shopping_behavior.ipynb > Python </a>
 ### Data Cleaning
 Filled missing review ratings using median rating per product category
