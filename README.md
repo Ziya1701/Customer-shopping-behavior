@@ -19,7 +19,7 @@ Behavior indicators like discounts, promo codes
 Missing Values: 37 null values in review_rating
 
 Data Set used
-<a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/customer_shopping_behavior.csv > </a> Data set
+<a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/customer_shopping_behavior.csv > Data set </a>
 
 ## Tools Used
 Python: Pandas, NumPy, Matplotlib/Seaborn
