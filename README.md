@@ -32,7 +32,7 @@ Checked structure (df.info())
 Statistical summary (df.describe())
 Identified missing values.
 
-Jupyter File :- <a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/Customer_shopping_behavior.ipynb > Python </a>
+Jupyter File :- <a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/Customer_shopping_behavior.ipynb > Python File </a>
 ### Data Cleaning
 Filled missing review ratings using median rating per product category
 Standardized column names to snake_case
@@ -40,7 +40,9 @@ Created:
 age_group
 purchase_frequency_days
 Removed promo_code_used due to duplication
-Uploaded cleaned data to MySQL
+Uploaded cleaned data to MySQL.
+
+<a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/Customer_behavior.sql > MySQL File </a>
 
 ### SQL Business Insights
 Queries were used to analyze:
