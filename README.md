@@ -17,18 +17,18 @@ Product attributes
 Behavior indicators like discounts, promo codes
 Missing Values: 37 null values in review_rating
 
-## 3. Tools Used
+## Tools Used
 Python: Pandas, NumPy, Matplotlib/Seaborn
 MySQL: Data storage & business queries
 Power BI: Dashboard development
-## 4. Steps Performed
-### 4.1 EDA in Python
+## Steps Performed
+### EDA in Python
 Loaded data with Pandas
 Checked structure (df.info())
 Statistical summary (df.describe())
 Identified missing values
 
-### 4.2 Data Cleaning
+### Data Cleaning
 Filled missing review ratings using median rating per product category
 Standardized column names to snake_case
 Created:
@@ -37,7 +37,7 @@ purchase_frequency_days
 Removed promo_code_used due to duplication
 Uploaded cleaned data to MySQL
 
-### 4.3 SQL Business Insights
+### SQL Business Insights
 Queries were used to analyze:
 Revenue by gender
 High-value discount users
@@ -50,7 +50,7 @@ Top 3 products per category
 Repeat purchase vs subscription
 Revenue by age group
 
-## 5. Power BI Dashboard
+## Power BI Dashboard
 Dashboard includes:
 Total customers
 Average purchase amount
@@ -59,7 +59,7 @@ Revenue by category
 Revenue and sales by age group
 Subscription breakdown
 
-## 6. Business Recommendations
+## Business Recommendations
 Increase subscription conversions
 Strengthen loyalty programs
 Optimize discount strategy
