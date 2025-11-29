@@ -5,6 +5,7 @@ This project analyzes customer shopping patterns using Python, MySQL, and Power 
 The goal is to understand spending habits, product preferences, customer segments, subscription behavior, and discount usage.
 
 A dataset of 3,900 records across 18 columns was used to generate insights that support strategic and marketing decisions.
+<img width="1325" height="726" alt="Screenshot 2025-11-29 135036" src="https://github.com/user-attachments/assets/ecea46c6-67e0-4a30-9c29-89d3f08c0b70" />
 
 
 ## Dataset Summary
@@ -16,6 +17,9 @@ Purchase information
 Product attributes
 Behavior indicators like discounts, promo codes
 Missing Values: 37 null values in review_rating
+
+Data Set used
+<a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/customer_shopping_behavior.csv > </a> Data set </a>
 
 ## Tools Used
 Python: Pandas, NumPy, Matplotlib/Seaborn
