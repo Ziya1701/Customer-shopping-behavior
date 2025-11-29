@@ -18,11 +18,11 @@ Product attributes
 Behavior indicators like discounts, promo codes
 Missing Values: 37 null values in review_rating
 
-Data Set used
+Data Set used :- 
 <a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/customer_shopping_behavior.csv > Data set </a>
 
 ## Tools Used
-Python: Pandas, NumPy, Matplotlib/Seaborn
+Python: Pandas
 MySQL: Data storage & business queries
 Power BI: Dashboard development
 ## Steps Performed
@@ -31,7 +31,7 @@ Loaded data with Pandas
 Checked structure (df.info())
 Statistical summary (df.describe())
 Identified missing values
-
+Jupyter File :- <a href = https://github.com/Ziya1701/Customer-shopping-behavior/blob/main/Customer_shopping_behavior.ipynb > Python </a>
 ### Data Cleaning
 Filled missing review ratings using median rating per product category
 Standardized column names to snake_case
